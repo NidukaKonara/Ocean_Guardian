@@ -10,3 +10,4 @@ This repository houses the codebase for "Ocean Guardian", a mobile game designed
 # Languages and Tools
 * Kotlin 
 * Android Studio
+  <img src="https://ibb.co/9hTFHxr" />
